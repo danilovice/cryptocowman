@@ -1,5 +1,6 @@
 {
   "name": "CowMan's Coin",
   "symbol": "CWMN",
-  "uri": "https://raw.githubusercontent.com/danilovice/cryptocowman/main/metadata.json"
+  "description": "A coin for cowman's",
+  "image": "https://raw.githubusercontent.com/danilovice/cryptocowman/main/logo.png"
 }
